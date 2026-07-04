@@ -1,0 +1,29 @@
+{
+  "citations": [
+    "[frontiernews.ai](https://www.frontiernews.ai/news/article/googles-gemini-35-flash-gets-a-major-upgrade-what-e3b04ade)",
+    "[rohitraj.tech](https://rohitraj.tech/en/notes/gemini-computer-use-vs-claude-openai-2026)",
+    "[techcrunch.com](https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/)",
+    "[pcmag.com](https://www.pcmag.com/news/gemini-spark-is-now-available-on-macos-heres-everything-the-ai-agent-can-do)",
+    "[bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/)",
+    "[noticemesenpai.com](https://noticemesenpai.com/news/gemini-computer-use-ad-account-security-2026/)"
+  ],
+  "design_plan": "rng=42; AIDA pass; hero max-width 1120px yields 2\u20133 lines; grid-auto-flow:dense verified in .compare-grid and .bento; competitor labels swept; primary/secondary CTA contrast checked.",
+  "generated_at": "2026-07-04T19:28:42.206660+00:00",
+  "headline": "Super vs Gemini \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Gemini",
+    "competitor": "Gemini",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Gemini. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Gemini AI agent",
+      "Gemini AI assistant",
+      "Gemini automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-gemini",
+    "title": "Super vs Gemini"
+  },
+  "summary": "Gemini is pushing browser\u2011native computer use into a fast, mainstream model. Super is built for people who want durable, repeatable computer\u2011use workflows \u2014 with a reusable computer\u2011use cache so the second run is cheaper and faster than the first."
+}
